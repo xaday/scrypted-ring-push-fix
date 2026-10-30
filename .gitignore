@@ -1,0 +1,10 @@
+node_modules/
+.scrypted/
+login.json
+.env
+.env.*
+*.log
+*.map
+plugin.zip
+ringfix-*.zip
+deploy-home/
